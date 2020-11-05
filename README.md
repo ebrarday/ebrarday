@@ -2,6 +2,6 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning to be a paperclip 🖇; 
+- 🌱 I’m currently learning to be a paperclip 🧐; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@ebrarday](https://www.linkedin.com/in/ebrarday/);
