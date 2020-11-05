@@ -4,4 +4,8 @@
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning to be a paperclip 🧐; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@ebrarday](https://www.linkedin.com/in/ebrarday/);
+
+## :mailbox: How to reach me :
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:ebrargunbusiness@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/ebrarday/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>](https://instagram.com/ebrarday)
