@@ -7,5 +7,5 @@
 
 ## :mailbox: How to reach me :
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:ebrargunbusiness@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/ebrarday/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/ebrargun/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>](https://instagram.com/ebrarday)
